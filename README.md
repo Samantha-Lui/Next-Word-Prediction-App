@@ -1,4 +1,4 @@
-# R-NextWordPredictionApp
+# Next-Word-Prediction-App
 
 These are the R scripts used in creating this [Next Word Prediction App](https://samantheluidatascience.shinyapps.io/Capstone/) which was the capstone project (Oct 27, 2014-Dec 13, 2014) for a program in Data Science Specialization. Please visit [this page](http://rpubs.com/Samantha_Lui/57441) for the details about this project. 
 
